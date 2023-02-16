@@ -1,3 +1,6 @@
+## The site is currently hosted at: https://yogeshbhutkar.github.io/Magic-memory-react/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
